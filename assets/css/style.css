@@ -1,0 +1,49 @@
+body{
+    background-color: #F7F7F7;
+    font-family: 'Schoolbell', cursive;
+    font-size: 1.5rem;
+    position: relative;
+}
+p{
+    font-size: 1.5rem;
+}
+
+.header-photo img{
+    text-align: center;
+    height: 15em;
+    width: auto;
+    
+}
+.section-1{
+    text-align: center;
+    position: relative;
+}
+
+.footer{
+    text-align: center;
+    background-color: #005792;
+    color: #fff5a5;
+    position: ;
+    bottom: 0;
+    width: 100%;
+
+
+}
+.container{
+    text-align: center;
+    padding: 2em ;
+    position: relative;
+}
+.header{
+    background-color: #fff5a5;
+    height: 5em;
+    position: relative;
+}
+.header img{
+    height: 3em;
+    width: auto;
+    float: right;
+}
+.header img, .header p{
+    display: inline;
+}
